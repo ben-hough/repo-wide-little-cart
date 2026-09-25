@@ -1,0 +1,9 @@
+{
+  "name": "WideLittleCart",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ben-hough/repo-wide-little-cart",
+  "description": "Makes the vanilla POCKET C.A.R.T. as wide as the normal C.A.R.T. and twice as deep. Colliders, in-cart detection, handle and push distance scale too. Host-controlled size.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
