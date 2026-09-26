@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/repo-mods/tree/main/WideLittleCart. This repo is archived and read-only; full history was preserved there.
+
 # WideLittleCart
 
 Makes the vanilla **POCKET C.A.R.T.** (the little cart) **as wide as the normal C.A.R.T.** and **twice as deep** from front to back. The height stays the same, and it still goes into your pocket like normal.
